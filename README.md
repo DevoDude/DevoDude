@@ -2,7 +2,7 @@
 I'm Chris, I love tech.
 I'm currently learning to be a developer at Coder Academy Brisbane.
 
-The best email to get to me right now is homebase.op@gmail.com, hit me up if you need anything!
+You can contact me on my portfolio site https://chrishoggan.com/ (it's a bit of a work in progress at the moment)
 
 <!---
 devodude/devodude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
