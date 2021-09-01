@@ -1,6 +1,8 @@
 # Hey
 I'm Chris, I love tech.
-I'm currently learning to be a developer at Coder Academy Brisbane.
+I've recently graduated from Coder Academy in Brisbane as a developer
+
+I make full stack applications in React/Express and mobile apps in React Native.
 
 Contact me on my portfolio site https://makecoolstuff.net/
 
